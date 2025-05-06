@@ -30,17 +30,17 @@ needs some improvements
 
 ## Implementation Checklist
 
-- [.] Backend/Frontend API Integration
-- [.] TypeScript Migration
+- [x] Backend/Frontend API Integration
+- [x] TypeScript Migration
 - [ ] Real-time Chat System
 - [ ] Location-based Matching
 - [ ] Skill Verification Workflow
 
 ## Current Implementation Status
 
-(need more accuracy and coordination -\_-)
+need more accuracy and coordination    -_-
 
-Implemented Features:
+Implemented Features(may not work properly):
 
 - Firebase Authentication
 - Location-Based Skill Filtering (Haversine formula)
