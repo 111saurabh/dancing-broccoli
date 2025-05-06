@@ -1,19 +1,4 @@
-# SkillSwap
-
-needs some improvements
-
-## Project Status
-
-- **UI Framework**: Chakra UI
-- **Implemented Features**:
-  - Firebase Authentication Integration
-  - Responsive Layout System
-  - Location Search Component
-  - Profile Management Scaffolding
-- **Pending Features**:
-  - Skill Listing Interface
-  - Match Notification System
-  - User Rating Mechanism
+# Currently working ^\_~
 
 ## Tech Stack
 
@@ -28,17 +13,9 @@ needs some improvements
 - Type-safe API contracts
 - Environment-based configuration
 
-## Implementation Checklist
-
-- [x] Backend/Frontend API Integration
-- [x] TypeScript Migration
-- [ ] Real-time Chat System
-- [ ] Location-based Matching
-- [ ] Skill Verification Workflow
-
 ## Current Implementation Status
 
-need more accuracy and coordination    -_-
+need more accuracy and coordination -\_-
 
 Implemented Features(may not work properly):
 
@@ -48,12 +25,6 @@ Implemented Features(may not work properly):
   - User ratings
   - Connection requests
   - Distance display
-
-🛠 Tech Stack:
-
-- Frontend: React + TypeScript, Chakra UI
-- Mapping: Mapbox GL JS
-- Backend: Node.js/Express.js (WIP)
 
 ## UI Components
 
